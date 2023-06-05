@@ -18,7 +18,7 @@
   <img alt="VSCode" height="80" src="https://blog.cloudanalogy.com/wp-content/uploads/2020/03/vsc-01.jpg">
   <img alt="Git Logo" height="80" width="120" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrNey0NJUuet7oxT37OiO795Ldq9G_wpGEaw&usqp=CAU">
 
-- 🔭 I’m currently working on [Recipe Management System] --> (https://github.com/Sourabh1028/RecipeManagementSystem.git)
+- 🔭 I’m currently working on **Recipe Management System** --> (https://github.com/Sourabh1028/RecipeManagementSystem.git)
 
 - 🌱 I’m currently learning --> **Full Stack Web Development**
 
