@@ -27,7 +27,7 @@
 
 - 📝 I often write articles on --> (https://www.linkedin.com/in/msourabh/)
 
-- 💬 Ask me about --> **Sprig Boot, Java, DSA, OOP, MySQL**
+- 💬 Ask me about --> **Java, Spring Boot, DSA, OOP, MySQL**
 
 - 📫 How to reach me --> **msourabh631@gmail.com**
 
